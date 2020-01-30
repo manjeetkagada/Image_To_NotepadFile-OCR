@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OCR.iml" filepath="$PROJECT_DIR$/OCR.iml" />
+      <module fileurl="file://D:/Tesseract/Tess4J/Tess4J.iml" filepath="D:/Tesseract/Tess4J/Tess4J.iml" />
+    </modules>
+  </component>
+</project>
